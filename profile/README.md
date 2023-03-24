@@ -1,12 +1,81 @@
-## Hi there 👋
+<p align="center">
+<img src="fuchsia.png" width=150/>
 
-<!--
+`Fuchsia, wallet for community`
 
-**Here are some ideas to get you started:**
+<p align="center">
+Reward your members for personalizing their on-chain membership benefits using account abstraction
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+🖌️ UI/UX Design: <->
+
+🖥️ Contract: <https://github.com/scaling-eth-2023/contracts>
+
+🖥️ Frontend: <https://github.com/scaling-eth-2023/client>
+
+💡 Live Site: <->
+
+---
+
+## Project Description
+
+### What is Fushsia?
+
+Fushsia Wallet aims to provide an `innovative payment experience` that offers users `on-chain benefits and rewards for their transactions`. By creating a membership payment system that utilizes blockchain technology --using Account Abstraction for customization, users can potentially receive discounts on gas fees and even pay gas with native tokens -- can be anything! Additionally, the ability to customize benefits based on membership tier could provide a `personalized experience for users while also allowing communities to set specific conditions for each tier`.
+
+### Usecase
+
+One example can be DAO. Cool DAO setting a paymaster contract is a great illustration of how this membership payment system could work. By setting different membership tiers based on transaction activity, users can receive different benefits based on their level of engagement with the community.
+
+For instance, users who vote in transactions more than ten times could be considered Bronze Tier members, while those who vote fifty times could be Silver Tier members. As a result, Silver Tier members could receive a significant discount on gas fees paid by the DAO.
+
+### Summurize
+
+Fushsia Wallet has the potential to provide a `unique payment experience that offers users and communities on-chain benefits and rewards`.
+
+---
+
+## User Flows (user = wallet user)
+
+### Create Wallet
+
+<p align="center">
+<img src="create-wallet.jpeg" width=400/>
+
+- User enter password and create wallet
+- (optional) User can set social recovery through email
+
+### Join Membership
+
+<p align="center">
+<img src="join-membership.jpeg" width=400/>
+
+- Join membership button allows user to join membership
+- User can see list of memberships in website or individual membership in protocol page itself
+
+### Execute Transaction
+
+<p align="center">
+<img src="execute-transaction.jpeg" width=400/>
+
+- User do transactions or conditions about the specific membership requires (i.g. make more than 5 transactions, get NFT etc)
+- If user's Fuchsia gets certain membership, they will get benefit from membership's community (i.g. get gas fee discount 30%, pay gas fee with $GOV token etc)
+
+### Recover Wallet
+
+<p align="center">
+<img src="recover-wallet.jpeg" width=400/>
+
+- If user forgot private key or move the wallet into different browser, enter email used for social recovery, and can successfully change owner
+
+---
+
+## User Flows (user = community owner)
+
+### Create Membership
+
+<p align="center">
+<img src="create-membership.jpeg" width=400/>
+
+- Create membership tiers. Each tier should contain conditions to become and benefits for them.
