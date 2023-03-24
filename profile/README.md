@@ -1,5 +1,5 @@
 <p align="center">
-<img src="fuchsia.png" width=150/>
+<img src="https://github.com/scaling-eth-2023/.github/blob/main/profile/fuchsia.png" width=150/>
 
 `Fuchsia, wallet for community`
 
@@ -41,7 +41,7 @@ Fushsia Wallet has the potential to provide a `unique payment experience that of
 ### Create Wallet
 
 <p align="center">
-<img src="create-wallet.jpeg" width=400/>
+<img src="https://github.com/scaling-eth-2023/.github/blob/main/profile/create-wallet.jpeg" width=400/>
 
 - User enter password and create wallet
 - (optional) User can set social recovery through email
@@ -49,7 +49,7 @@ Fushsia Wallet has the potential to provide a `unique payment experience that of
 ### Join Membership
 
 <p align="center">
-<img src="join-membership.jpeg" width=400/>
+<img src="https://github.com/scaling-eth-2023/.github/blob/main/profile/join-membership.jpeg" width=400/>
 
 - Join membership button allows user to join membership
 - User can see list of memberships in website or individual membership in protocol page itself
@@ -57,7 +57,7 @@ Fushsia Wallet has the potential to provide a `unique payment experience that of
 ### Execute Transaction
 
 <p align="center">
-<img src="execute-transaction.jpeg" width=400/>
+<img src="https://github.com/scaling-eth-2023/.github/blob/main/profile/execute-transaction.jpeg" width=400/>
 
 - User do transactions or conditions about the specific membership requires (i.g. make more than 5 transactions, get NFT etc)
 - If user's Fuchsia gets certain membership, they will get benefit from membership's community (i.g. get gas fee discount 30%, pay gas fee with $GOV token etc)
@@ -65,7 +65,7 @@ Fushsia Wallet has the potential to provide a `unique payment experience that of
 ### Recover Wallet
 
 <p align="center">
-<img src="recover-wallet.jpeg" width=400/>
+<img src="https://github.com/scaling-eth-2023/.github/blob/main/profile/recover-wallet.jpeg" width=400/>
 
 - If user forgot private key or move the wallet into different browser, enter email used for social recovery, and can successfully change owner
 
@@ -76,6 +76,6 @@ Fushsia Wallet has the potential to provide a `unique payment experience that of
 ### Create Membership
 
 <p align="center">
-<img src="create-membership.jpeg" width=400/>
+<img src="https://github.com/scaling-eth-2023/.github/blob/main/profile/create-membership.jpeg" width=400/>
 
 - Create membership tiers. Each tier should contain conditions to become and benefits for them.
