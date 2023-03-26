@@ -28,7 +28,8 @@ Fushsia Wallet aims to provide an `innovative payment experience` that offers us
 
 For example, 0xumiswap setting a paymaster contract is a great illustration of how this membership payment system could work. By setting different membership tiers based on transaction activity, users can receive different benefits based on their level of engagement with the community.
 
-<img src="https://github.com/scaling-eth-2023/.github/blob/main/profile/tier.png" width=150/>
+<p align="center">
+<img src="https://github.com/scaling-eth-2023/.github/blob/main/profile/tier.png" width=400/>
 
 For instance, when user decided to subscribe `0xumiswap gasgee discount tier system`. User will become Tier 3, which can get 30% gasfee discount benefit from `0xumiswap.swapAtoB` transactions.
 
