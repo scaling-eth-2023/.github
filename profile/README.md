@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/scaling-eth-2023/.github/blob/main/profile/fuchsia.png" width=150/>
+<img src="https://github.com/scaling-eth-2023/.github/blob/623accd27ebbf04ef8b4df8715a84eedcff6c988/profile/fuchsia-banner-github.png"/>
 
 `Fuchsia, wallet for community`
 
