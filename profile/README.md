@@ -26,9 +26,15 @@ Fushsia Wallet aims to provide an `innovative payment experience` that offers us
 
 ### Usecase
 
-One example can be DAO. Cool DAO setting a paymaster contract is a great illustration of how this membership payment system could work. By setting different membership tiers based on transaction activity, users can receive different benefits based on their level of engagement with the community.
+For example, 0xumiswap setting a paymaster contract is a great illustration of how this membership payment system could work. By setting different membership tiers based on transaction activity, users can receive different benefits based on their level of engagement with the community.
 
-For instance, users who vote in transactions more than ten times could be considered Bronze Tier members, while those who vote fifty times could be Silver Tier members. As a result, Silver Tier members could receive a significant discount on gas fees paid by the DAO.
+<img src="https://github.com/scaling-eth-2023/.github/blob/main/profile/tier.png" width=150/>
+
+For instance, when user decided to subscribe `0xumiswap gasgee discount tier system`. User will become Tier 3, which can get 30% gasfee discount benefit from `0xumiswap.swapAtoB` transactions.
+
+After, when user make that transactions more than 10 times will be upgrade in to Tier 2, which can get 50% gasfee discount benefit from `0xumiswap.swapBtoA` transactions.
+
+Then, membership contract still count user activity until `0xumiswap.swapBtoA` transactions are more than 5 times, level up to Tier 1. Users who reached Tier 1 will get 100% gasfee support.
 
 ### Summurize
 
