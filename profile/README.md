@@ -8,13 +8,11 @@ Reward your members for personalizing their on-chain membership benefits using a
 
 ---
 
-🖌️ UI/UX Design: <->
-
 🖥️ Contract: <https://github.com/scaling-eth-2023/contracts>
 
 🖥️ Frontend: <https://github.com/scaling-eth-2023/client>
 
-💡 Live Site: <->
+💡 Live Site: <https://fuchsia-app.vercel.app/>
 
 ---
 
